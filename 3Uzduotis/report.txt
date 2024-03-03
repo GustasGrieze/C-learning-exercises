@@ -1,0 +1,51 @@
+QUERY1
+20
+Betty Sleight 2 0.000000 0
+Kylie Hudson 4 0.000000 0
+Sarah Darry 3 0.000000 0
+...
+QUERY2
+863
+Matt Kesting 4 5.666667 3
+Jane Druddle 2 6.250000 4
+Luke Lockwood 2 7.666667 3
+...
+QUERY3
+796
+Helen Leben 1 7.750000 4
+Jerry King 3 6.500000 4
+Jim Doe 4 5.000000 3
+...
+QUERY4
+491
+Alice Sheen 3 7.666667 3
+Richard Leben 2 6.000000 1
+Angelina King 2 4.000000 3
+...
+QUERY5
+270
+Melissa Hudson 1 6.500000 2
+George Wood 4 5.800000 5
+Richard Leben 2 6.000000 1
+...
+QUERY6
+0
+...
+QUERY7
+201
+Wilhelm Norman 1 9.666667 3 Algebra 9
+Jamie Perry 3 6.500000 4 Operating systems 9 Philosophy 9 Calculus 7
+Jenny Brighthill 1 8.000000 4 Computer networks 9 Set theory 9
+...
+QUERY8
+15
+Melissa Hudson 1 6.500000 2
+Alice Sheen 3 7.666667 3
+Charlie Stapleton 4 8.500000 2
+...
+QUERY11
+30
+Sole Lockwood
+Alice Thornton
+Adam King
+...
